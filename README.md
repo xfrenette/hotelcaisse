@@ -13,6 +13,6 @@ L'interface de gestion web permet d'accéder aux ventes enregistrées depuis l'a
 Modules
 ---
 
-* `tabletui` : [l'application Android](https://github.com/xfrenette/hotelcaisse-tabletui), en React Native.
-* `jsapp` : [la librairie JavaScript](https://github.com/xfrenette/hotelcaisse-jsapp), utilisée par `tabletui`.
-* `server` : [le serveur web (API et outil de gestion)](https://github.com/xfrenette/hotelcaisse-server), programmé avec PHP et Laravel.
+* [`tabletui` : l'application Android](https://github.com/xfrenette/hotelcaisse-tabletui), en React Native.
+* [`jsapp` : la librairie JavaScript](https://github.com/xfrenette/hotelcaisse-jsapp), utilisée par `tabletui`.
+* [`server` : le serveur web (API et outil de gestion)](https://github.com/xfrenette/hotelcaisse-server), programmé avec PHP et Laravel.
